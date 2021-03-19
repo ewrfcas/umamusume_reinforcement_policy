@@ -1,2 +1,2 @@
 # umamusume_reinforcement_policy
-ウマ娘 プリティーダービー!
+ウマ娘 プリティーダービー!!!
